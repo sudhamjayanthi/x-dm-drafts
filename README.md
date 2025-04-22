@@ -50,6 +50,11 @@ This extension:
 - Only activates on Twitter/X message pages
 - Only requires permissions for storage and access to Twitter/X URLs
 
+# To Fix
+- [ ] Support for newlines
+- [ ] Figure out to how to get the username
+- [ ] Make sure the UX is better and it works consistently. Sometimes its buggy when you edit existing drafts.
+
 ## Support
 
 If you encounter any issues or have questions, please file an issue on the repository.
@@ -57,3 +62,6 @@ If you encounter any issues or have questions, please file an issue on the repos
 ## License
 
 MIT License - Feel free to modify and use as needed.
+
+## Author
+Sudham Jayanthi -- Vibecoded with <3 at #hsrhackerhouse
